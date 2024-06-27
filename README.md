@@ -1,8 +1,8 @@
-# 🌟 MACHINE LEARNING LAB 🌟
+## 🌟 MACHINE LEARNING LAB 🌟
 
 Welcome to the Machine Learning Lab repository! This repository contains a series of practical experiments designed to enhance your understanding of machine learning concepts and techniques.
 
-## 🔬 Experiment List
+### 🔬 Experiment List
 
 Below is the detailed list of practicals available in this repository:
 
@@ -37,10 +37,10 @@ Below is the detailed list of practicals available in this repository:
 10. **K-means Clustering**
     - Implement K-means Clustering algorithm and evaluate its performance.
 
-📂 Directory Structure
+### 📂 Directory Structure
 
 Each practical is organized into its own directory, making it easy to find and run the experiments:
-.
+```.
 ├── Practical_1
 │   ├── creating_loading_datasets.py
 │   ├── reshaping_filtering_scaling.py
